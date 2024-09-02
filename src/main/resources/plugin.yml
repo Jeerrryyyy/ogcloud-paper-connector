@@ -1,0 +1,6 @@
+name: ogcloud-paper-connector
+version: 1.0.0
+author: Jevzo
+api-version: '1.21'
+
+main: de.ogwars.ogcloud.OgCloudConnectorPlugin
